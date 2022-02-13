@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AKDKUnityNuGet/Scenes/Main.unity
+    guid: 3166a9e335152294baa2239709abd090
   m_configObjects: {}
