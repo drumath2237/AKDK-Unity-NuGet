@@ -16,7 +16,9 @@
 ## Install & Usage
 
 Azure Kinectを接続し、
-`Assets/Scenes/SampleScene.unity`を実行します。
+`Assets/AKDKUnityNuGet/Scenes/Main.unity`を実行します。
+
+![img](/docs/unityimg.jpg)
 
 ## Appendix
 
